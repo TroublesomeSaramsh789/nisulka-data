@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Province No. 1",
+    "capital": "Biratnagar"
+  },
+  {
+    "name": "Province No. 2",
+    "capital": "Janakpur"
+  },
+  {
+    "name": "Bagmati",
+    "capital": "Hetauda"
+  },
+  {
+    "name": "Gandaki",
+    "capital": "Pokhara"
+  },
+  {
+    "name": "Province No. 5",
+    "capital": "Butwal"
+  },
+  {
+    "name": "Karnali",
+    "capital": "Birendranagar"
+  },
+  {
+    "name": "Sudurpashchim",
+    "capital": "Godavari"
+  }
+]
