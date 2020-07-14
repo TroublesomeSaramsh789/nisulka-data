@@ -80,7 +80,3 @@ There are seven provinces and 77 districts in Nepal.
 |75 |7             |Doti          |डोटी           |
 |76 |7             |Kailali       |कैलाली         |
 |77 |7             |Kanchanpur    |कञ्चनपुर       |
-
-# Downloads
-Download districts in JSON format. [English](districts-en.json) | [Nepali](districts-ne.json) \
-Download districts in CSV format. [English](districts-en.csv) | [Nepali](districts-ne.csv)
