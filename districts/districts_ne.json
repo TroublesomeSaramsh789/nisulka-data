@@ -1,0 +1,387 @@
+[
+  {
+    "id": 1,
+    "province_id": 1,
+    "name": "भोजपुर"
+  },
+  {
+    "id": 2,
+    "province_id": 1,
+    "name": "धनकुटा"
+  },
+  {
+    "id": 3,
+    "province_id": 1,
+    "name": "ईलाम"
+  },
+  {
+    "id": 4,
+    "province_id": 1,
+    "name": "झापा"
+  },
+  {
+    "id": 5,
+    "province_id": 1,
+    "name": "खोटाङ"
+  },
+  {
+    "id": 6,
+    "province_id": 1,
+    "name": "मोरंग"
+  },
+  {
+    "id": 7,
+    "province_id": 1,
+    "name": "ओखलढुंगा"
+  },
+  {
+    "id": 8,
+    "province_id": 1,
+    "name": "पाँचथर"
+  },
+  {
+    "id": 9,
+    "province_id": 1,
+    "name": "संखुवासभा"
+  },
+  {
+    "id": 10,
+    "province_id": 1,
+    "name": "सोलुखुम्बु"
+  },
+  {
+    "id": 11,
+    "province_id": 1,
+    "name": "सुनसरी"
+  },
+  {
+    "id": 12,
+    "province_id": 1,
+    "name": "ताप्लेजुङ"
+  },
+  {
+    "id": 13,
+    "province_id": 1,
+    "name": "तेहथुम"
+  },
+  {
+    "id": 14,
+    "province_id": 1,
+    "name": "उदयपुर"
+  },
+  {
+    "id": 15,
+    "province_id": 2,
+    "name": "वारा"
+  },
+  {
+    "id": 16,
+    "province_id": 2,
+    "name": "धनुषा"
+  },
+  {
+    "id": 17,
+    "province_id": 2,
+    "name": "महोत्तरी"
+  },
+  {
+    "id": 18,
+    "province_id": 2,
+    "name": "पर्सा"
+  },
+  {
+    "id": 19,
+    "province_id": 2,
+    "name": "रौतहट"
+  },
+  {
+    "id": 20,
+    "province_id": 2,
+    "name": "सप्तरी"
+  },
+  {
+    "id": 21,
+    "province_id": 2,
+    "name": "सर्लाही"
+  },
+  {
+    "id": 22,
+    "province_id": 2,
+    "name": "सिराहा"
+  },
+  {
+    "id": 23,
+    "province_id": 3,
+    "name": "भक्तपुर"
+  },
+  {
+    "id": 24,
+    "province_id": 3,
+    "name": "चितवन"
+  },
+  {
+    "id": 25,
+    "province_id": 3,
+    "name": "धादिङ"
+  },
+  {
+    "id": 26,
+    "province_id": 3,
+    "name": "दोलखा"
+  },
+  {
+    "id": 27,
+    "province_id": 3,
+    "name": "काठमाण्डौ"
+  },
+  {
+    "id": 28,
+    "province_id": 3,
+    "name": "काभ्रेपलान्चोक"
+  },
+  {
+    "id": 29,
+    "province_id": 3,
+    "name": "ललितपुर"
+  },
+  {
+    "id": 30,
+    "province_id": 3,
+    "name": "मकवानपुर"
+  },
+  {
+    "id": 31,
+    "province_id": 3,
+    "name": "नुवाकोट"
+  },
+  {
+    "id": 32,
+    "province_id": 3,
+    "name": "रामेछाप"
+  },
+  {
+    "id": 33,
+    "province_id": 3,
+    "name": "रसुवा"
+  },
+  {
+    "id": 34,
+    "province_id": 3,
+    "name": "सिन्धुली"
+  },
+  {
+    "id": 35,
+    "province_id": 3,
+    "name": "सिन्धुपाल्चोक"
+  },
+  {
+    "id": 36,
+    "province_id": 4,
+    "name": "वाग्लुङ"
+  },
+  {
+    "id": 37,
+    "province_id": 4,
+    "name": "गोरखा"
+  },
+  {
+    "id": 38,
+    "province_id": 4,
+    "name": "कास्की"
+  },
+  {
+    "id": 39,
+    "province_id": 4,
+    "name": "लमजुङ"
+  },
+  {
+    "id": 40,
+    "province_id": 4,
+    "name": "मनाङ"
+  },
+  {
+    "id": 41,
+    "province_id": 4,
+    "name": "मुस्ताङ"
+  },
+  {
+    "id": 42,
+    "province_id": 4,
+    "name": "म्याग्दी"
+  },
+  {
+    "id": 43,
+    "province_id": 4,
+    "name": "नवलपरासी पूर्व"
+  },
+  {
+    "id": 44,
+    "province_id": 4,
+    "name": "पर्वत"
+  },
+  {
+    "id": 45,
+    "province_id": 4,
+    "name": "स्याङजा"
+  },
+  {
+    "id": 46,
+    "province_id": 4,
+    "name": "तनहुँ"
+  },
+  {
+    "id": 47,
+    "province_id": 5,
+    "name": "अर्घाखाँची"
+  },
+  {
+    "id": 48,
+    "province_id": 5,
+    "name": "बाँके"
+  },
+  {
+    "id": 49,
+    "province_id": 5,
+    "name": "बर्दिया"
+  },
+  {
+    "id": 50,
+    "province_id": 5,
+    "name": "दाङ"
+  },
+  {
+    "id": 51,
+    "province_id": 5,
+    "name": "गुल्मी"
+  },
+  {
+    "id": 52,
+    "province_id": 5,
+    "name": "कपिलबस्तु"
+  },
+  {
+    "id": 53,
+    "province_id": 5,
+    "name": "नवलपरासी पश्चिम"
+  },
+  {
+    "id": 54,
+    "province_id": 5,
+    "name": "पाल्पा"
+  },
+  {
+    "id": 55,
+    "province_id": 5,
+    "name": "प्यूठान"
+  },
+  {
+    "id": 56,
+    "province_id": 5,
+    "name": "रोल्पा"
+  },
+  {
+    "id": 57,
+    "province_id": 5,
+    "name": "रुकुम पूर्व"
+  },
+  {
+    "id": 58,
+    "province_id": 5,
+    "name": "रुपन्देही"
+  },
+  {
+    "id": 59,
+    "province_id": 6,
+    "name": "दैलेख"
+  },
+  {
+    "id": 60,
+    "province_id": 6,
+    "name": "डोल्पा"
+  },
+  {
+    "id": 61,
+    "province_id": 6,
+    "name": "हुम्ला"
+  },
+  {
+    "id": 62,
+    "province_id": 6,
+    "name": "जाजरकोट"
+  },
+  {
+    "id": 63,
+    "province_id": 6,
+    "name": "जुम्ला"
+  },
+  {
+    "id": 64,
+    "province_id": 6,
+    "name": "कालिकोट"
+  },
+  {
+    "id": 65,
+    "province_id": 6,
+    "name": "मुगु"
+  },
+  {
+    "id": 66,
+    "province_id": 6,
+    "name": "रुकुम पश्चिम"
+  },
+  {
+    "id": 67,
+    "province_id": 6,
+    "name": "सल्यान"
+  },
+  {
+    "id": 68,
+    "province_id": 6,
+    "name": "सुर्खेत"
+  },
+  {
+    "id": 69,
+    "province_id": 7,
+    "name": "अछाम"
+  },
+  {
+    "id": 70,
+    "province_id": 7,
+    "name": "बैतडी"
+  },
+  {
+    "id": 71,
+    "province_id": 7,
+    "name": "बझाङ"
+  },
+  {
+    "id": 72,
+    "province_id": 7,
+    "name": "बाजुरा"
+  },
+  {
+    "id": 73,
+    "province_id": 7,
+    "name": "डडेलधुरा"
+  },
+  {
+    "id": 74,
+    "province_id": 7,
+    "name": "दार्चुला"
+  },
+  {
+    "id": 75,
+    "province_id": 7,
+    "name": "डोटी"
+  },
+  {
+    "id": 76,
+    "province_id": 7,
+    "name": "कैलाली"
+  },
+  {
+    "id": 77,
+    "province_id": 7,
+    "name": "कञ्चनपुर"
+  }
+]
