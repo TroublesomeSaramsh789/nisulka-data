@@ -4,7 +4,7 @@ There are 7 provinces and 77 districts in Nepal.
 ## Districts in Province No. 1
 There are 14 districts in Province No. 1.
 
-|ID|ProvinceId|Name/EN|Name/NE|
+|ID|ProvinceID|Name/EN|Name/NE|
 |---|---|---|---|
 |1|1|Bhojpur|भोजपुर|
 |2|1|Dhankuta|धनकुटा|
@@ -24,7 +24,7 @@ There are 14 districts in Province No. 1.
 ## Districts in Province No. 2
 There are 8 districts in Province No. 2.
 
-|ID|ProvinceId|Name/EN|Name/NE|
+|ID|ProvinceID|Name/EN|Name/NE|
 |---|---|---|---|
 |15|2|Bara|वारा|
 |16|2|Dhanusa|धनुषा|
@@ -38,7 +38,7 @@ There are 8 districts in Province No. 2.
 ## Districts in Bagmati
 There are 13 districts in Bagmati.
 
-|ID|ProvinceId|Name/EN|Name/NE|
+|ID|ProvinceID|Name/EN|Name/NE|
 |---|---|---|---|
 |23|3|Bhaktapur|भक्तपुर|
 |24|3|Chitwan|चितवन|
@@ -57,7 +57,7 @@ There are 13 districts in Bagmati.
 ## Districts in Gandaki
 There are 11 districts in Gandaki.
 
-|ID|ProvinceId|Name/EN|Name/NE|
+|ID|ProvinceID|Name/EN|Name/NE|
 |---|---|---|---|
 |36|4|Baglung|वाग्लुङ|
 |37|4|Gorkha|गोरखा|
@@ -74,7 +74,7 @@ There are 11 districts in Gandaki.
 ## Districts in Province No. 5
 There are 12 districts in Province No. 5.
 
-|ID|ProvinceId|Name/EN|Name/NE|
+|ID|ProvinceID|Name/EN|Name/NE|
 |---|---|---|---|
 |47|5|Arghakhanchi|अर्घाखाँची|
 |48|5|Banke|बाँके|
@@ -92,7 +92,7 @@ There are 12 districts in Province No. 5.
 ## Districts in Karnali
 There are 10 districts in Karnali.
 
-|ID|ProvinceId|Name/EN|Name/NE|
+|ID|ProvinceID|Name/EN|Name/NE|
 |---|---|---|---|
 |59|6|Dailekh|दैलेख|
 |60|6|Dolpa|डोल्पा|
@@ -108,7 +108,7 @@ There are 10 districts in Karnali.
 ## Districts in Sudurpashchim
 There are 9 districts in Sudurpashchim.
 
-|ID|ProvinceId|Name/EN|Name/NE|
+|ID|ProvinceID|Name/EN|Name/NE|
 |---|---|---|---|
 |69|7|Achham|अछाम|
 |70|7|Baitadi|बैतडी|
